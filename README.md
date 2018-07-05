@@ -7,10 +7,13 @@ These instructions will get you a copy of the project up and running on your loc
 A step by step series of examples that tell you how to get a development environment running.
 
 ```
-First, Extract the zip file "lms.zip". 
+First, Download and extract the zip file "lms.zip". Download the sql file "library.sql".
 ```
 ```
-Then, move the folder 'lms' into the htdocs folder of your xampp directory.
+Next, move the folder 'lms' into the htdocs folder of your xampp directory.
+```
+```
+Then, create a database in localhost/phpmyadmin then import the sql file "library.sql".
 ```
 ```
 Last, Check the project through localhost using your preferred browser.
