@@ -13,7 +13,7 @@ First, Extract the zip file "lms.zip".
 Then, move the folder 'lms' into the htdocs folder of your xampp directory.
 ```
 ```
-Last, Check the project through the localhost using your preferred browser.
+Last, Check the project through localhost using your preferred browser.
 ```
 
 ## Built With
